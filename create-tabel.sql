@@ -1,5 +1,3 @@
-use mytoko;
-
 CREATE TABLE konsumen(
 	konsumen_id INT(5) PRIMARY KEY auto_increment,
 	nama VARCHAR(255) NOT NULL,
